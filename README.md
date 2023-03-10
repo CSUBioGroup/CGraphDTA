@@ -4,7 +4,7 @@ CGraphDTA is a fusion-based deep learning architecture for detecting drug-target
 
 The benchmark dataset can be found in `./data/`. The CGraphDTA model is available in `./src/`. And the result will be generated in `./results/`. See our paper for more details.
 
-**[IMPORTANT] We provide the input file in the [release page](https://github.com/KailiWang1/CGraphDTA/releases/tag/Input).** Please download it to `./data/`.
+**[IMPORTANT] We provide the input file in the [release page](https://github.com/CSUBioGroup/CGraphDTA/releases/tag/Input).** Please download it to `./data/`.
 
 
 ### Software and database requirement  
@@ -35,7 +35,7 @@ Besides, RDKit 2019.09.3 is also need to change the format of drugs.
 In order to get CGraphDTA, you need to clone this repo:
 
 ```bash
-git clone https://github.com/KailiWang1/CGraphDTA
+git clone https://github.com/CSUBioGroup/CGraphDTA
 cd CGraphDTA
 ```
 The easiest way to install the required packages is to create environment with GPU-enabled version:
