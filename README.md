@@ -1,4 +1,4 @@
-## About CGraphDTA
+# About CGraphDTA
 
 CGraphDTA is a fusion-based deep learning architecture for detecting drug-target binding affinity using target sequence and structure.  
 
@@ -62,7 +62,7 @@ python train.py
 # Citation
 Wang K, Li M. Fusion-Based Deep Learning Architecture for Detecting Drug-Target Binding Affinity Using Target and Drug Sequence and Structure[J]. IEEE Journal of Biomedical and Health Informatics, 2023, 27(12): 6112-6120.
 
-### contact
+# contact
 Kaili Wang: [kailiwang@dhu.edu.cn](mailto:kailiwang@dhu.edu.cn)
 
 You can also download the codes from https://github.com/KailiWang1/CGraphDTA
