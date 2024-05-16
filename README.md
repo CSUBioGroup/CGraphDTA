@@ -59,6 +59,9 @@ cd ./src/
 python train.py
 ```
 
+# Citation
+Wang K, Li M. Fusion-Based Deep Learning Architecture for Detecting Drug-Target Binding Affinity Using Target and Drug Sequence and Structure[J]. IEEE Journal of Biomedical and Health Informatics, 2023, 27(12): 6112-6120.
+
 ### contact
 Kaili Wang: [kailiwang@dhu.edu.cn](mailto:kailiwang@dhu.edu.cn)
 
